@@ -12,7 +12,7 @@ Follow the steps below to set up the **Logic Gate Simulator**:
 1. **Clone the Repository**  
    Open your terminal and run:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ahmed74ca/Logic_gate_sim.git
    cd Logic_gate_sim
    ```
 
