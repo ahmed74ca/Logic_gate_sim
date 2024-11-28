@@ -1,0 +1,3 @@
+G:/logic_gate_simulator/LogicSimulator-main/build/CMakeFiles/main.dir
+G:/logic_gate_simulator/LogicSimulator-main/build/CMakeFiles/edit_cache.dir
+G:/logic_gate_simulator/LogicSimulator-main/build/CMakeFiles/rebuild_cache.dir
